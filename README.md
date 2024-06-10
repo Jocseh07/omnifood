@@ -20,11 +20,3 @@ This project is part of the Web Development course by Jonas Schmedtmann. The cou
 ## Author
 
 Joseph Muturi
-
-## Acknowledgements
-
-Special thanks to the course instructors and peers for their guidance and support throughout the project.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
